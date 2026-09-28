@@ -4,7 +4,6 @@ void setup(){
 
 void draw() {
   vierkant(100, 100, 100, 100);
-
 }
 
 void vierkant(int x, int y, int breedte, int hoogte) {
